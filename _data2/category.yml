@@ -1,0 +1,49 @@
+# Categories Taxonomy generated Wed, 10 Feb 2016 00:54:39 +0000
+Blog:
+    name: Blog
+Book Review:
+    name: Book Review
+developerWorks:
+    name: developerWorks
+Ext JS 4:
+    name: Ext JS 4
+ExtJS:
+    name: ExtJS
+ExtJS 6:
+    name: ExtJS 6
+GitHub:
+    name: GitHub
+Hibernate:
+    name: Hibernate
+iBatis (MyBatis):
+    name: iBatis (MyBatis)
+iText:
+    name: iText
+Java:
+    name: Java
+Jetty:
+    name: Jetty
+JSON:
+    name: JSON
+Miscellaneous:
+    name: Miscellaneous
+Oracle:
+    name: Oracle
+Screencasts:
+    name: Screencasts
+Sencha Architect 2:
+    name: Sencha Architect 2
+Sencha Touch 2:
+    name: Sencha Touch 2
+Spring:
+    name: Spring
+Spring Security:
+    name: Spring Security
+SUN:
+    name: SUN
+Tomcat:
+    name: Tomcat
+Uncategorized:
+    name: Uncategorized
+UNIX:
+    name: UNIX
